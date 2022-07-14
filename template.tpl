@@ -17,7 +17,7 @@ ___INFO___
     "EMAIL_MARKETING"
   ],
   "securityGroups": [],
-  "displayName": "Mautic Event",
+  "displayName": "CandidateHub Event",
   "brand": {
     "id": "brand_Suagencia",
     "displayName": "Suagencia",
